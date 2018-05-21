@@ -1,0 +1,40 @@
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.config
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.pdb
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.xml
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.GenerateResource.Cache
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
+E:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.config
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.pdb
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.xml
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+G:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.GenerateResource.Cache
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.config
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.pdb
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\bin\Debug\Estructuras de Datos.xml
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbprojAssemblyReference.cache
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.GenerateResource.cache
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.CoreCompileInputs.cache
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
+D:\Programacion II 2018\guiaPractica2018\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.config
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.pdb
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.xml
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbprojAssemblyReference.cache
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.GenerateResource.cache
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
+C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
