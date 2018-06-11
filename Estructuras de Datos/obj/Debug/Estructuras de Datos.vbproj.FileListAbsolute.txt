@@ -38,3 +38,14 @@ C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de 
 C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
 C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
 C:\Users\Alfredo\Documents\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.config
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.pdb
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.xml
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbprojAssemblyReference.cache
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.GenerateResource.cache
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb

@@ -71,6 +71,9 @@
     <Compile Include="4_03.vb" />
     <Compile Include="4_04.vb" />
     <Compile Include="4_05.vb" />
+    <Compile Include="4_06.VB" />
+    <Compile Include="4_07.vb" />
+    <Compile Include="4_08.VB" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

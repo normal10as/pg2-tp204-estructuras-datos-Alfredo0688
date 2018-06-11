@@ -1,5 +1,5 @@
 ﻿Module _4_07
-    'Private auxiliar As Single
+
     Sub main()
         Dim VectorNotas As New ArrayList()
         Dim vectorNombres As New ArrayList()
@@ -19,7 +19,6 @@
             indice_notas = Console.ReadLine
         Loop Until validar_dimension(indice_nombres, indice_notas)
         indice_nombres = indice_nombres - 1
-        'indice_notas = indice_notas - 1
 
         For i = 0 To indice_nombres
             Do
@@ -97,12 +96,11 @@
             If promedio(n) > auxiliar Then
                 auxiliar = promedio(n)
             End If
-
         Next
 
         For n = 0 To indice_max
             If promedio(n) = auxiliar Then
-                mejores(n) = auxiliar
+                mejores.Add(auxiliar)
             End If
         Next
 
