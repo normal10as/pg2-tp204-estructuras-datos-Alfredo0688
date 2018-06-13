@@ -105,7 +105,6 @@
                 mejores.Add(auxiliar)
             End If
         Next
-
         Return mejores
     End Function
 End Module
