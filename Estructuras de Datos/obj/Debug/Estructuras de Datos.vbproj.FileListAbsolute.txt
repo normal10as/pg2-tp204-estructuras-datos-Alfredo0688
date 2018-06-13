@@ -49,3 +49,5 @@ C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Es
 C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.exe
 C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.xml
 C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\obj\Debug\Estructuras de Datos.pdb
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.CodeAnalysisLog.xml
+C:\Users\Alfredo\Documents\Repositorios\04 - Repositorio Estructuras de datos\Estructuras de Datos\bin\Debug\Estructuras de Datos.exe.lastcodeanalysissucceeded
