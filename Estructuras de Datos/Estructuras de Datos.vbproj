@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E7CB196D-569D-46B3-AF8E-58E0764B07C0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_de_Datos._4_05</StartupObject>
+    <StartupObject>Estructuras_de_Datos._4_09</StartupObject>
     <RootNamespace>Estructuras_de_Datos</RootNamespace>
     <AssemblyName>Estructuras de Datos</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -74,6 +74,7 @@
     <Compile Include="4_06.VB" />
     <Compile Include="4_07.vb" />
     <Compile Include="4_08.VB" />
+    <Compile Include="4_09.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

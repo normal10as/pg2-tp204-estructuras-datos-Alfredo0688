@@ -27,8 +27,11 @@
             Loop Until validarNombre(nombreAlumno) And validarNombreUnico(nombreAlumno, vectorNombres)
             vectorNombres.Add(nombreAlumno)
             For j = 0 To indice_notas - 1
-                Console.Write("{0}ª nota: ", j + 1)
-                notaAlumno = Console.ReadLine
+                Do
+                    Console.Write("{0}ª nota: ", j + 1)
+                    notaAlumno = Console.ReadLine
+                Loop Until validarNota(notaAlumno)
+
                 VectorNotas.Add(notaAlumno)
                 acumuladorNota = notaAlumno + acumuladorNota
             Next
@@ -46,10 +49,8 @@
 
         MejoresAlumnosFunction(vectorPromedios, mejoresAlumnos, indice_nombres)
 
-        For n = 0 To mejoresAlumnos.Count - 1
-
-            Console.WriteLine("Mejor nota: " & mejoresAlumnos(n) & " Alumno: " & vectorNombres(n))
-            Console.ReadKey()
+        For Each mejores As Single In mejoresAlumnos
+            Console.WriteLine("Mejor nota:" & mejores)
         Next
         Console.Write("Fin del programa")
         Console.ReadKey()
@@ -58,9 +59,10 @@
     Private Function validarNombre(nombre As String) As Boolean
         Return nombre <> "" And nombre.Length > 2
     End Function
-
+    Private Function validarNota(nota As Single) As Boolean
+        Return nota > 0 And nota <= 10
+    End Function
     Private Function validarNombreUnico(nombre As String, vector As ArrayList) As Boolean
-
         For Each name As String In vector
             If vector.Contains(nombre) And nombre <> "" Then
                 Console.WriteLine("El nombre ya existe")
@@ -76,13 +78,13 @@
         Return promedio
     End Function
 
-    Private Function calificacionAlumno(vector, subindice) As String
-        For Each calificacion In vector
-            If calificacion >= 6 Then
-                Return "El alumno aprobó"
-            End If
-        Next
+    Private Function calificacionAlumno(vector As ArrayList, indice As Byte) As String
+
+        If vector(indice) >= 6 Then
+            Return "El alumno aprobó"
+        End If
         Return "El alumno desaprobó"
+
     End Function
 
     Private Function validar_dimension(nombre As Byte, notas As Byte) As Boolean
